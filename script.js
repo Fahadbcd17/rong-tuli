@@ -12,7 +12,10 @@ const products = [
     additionalImages: [
       "./assets/SP01_1.jpg",
       "./assets/SP01_2.jpg",
-      "./assets/SP01_3.jpg"
+      "./assets/SP01_3.jpg",
+      "./assets/SP01_4.jpg",
+      "./assets/SP01_5.jpg",
+      "./assets/SP01_6.jpg",
     ]
   },
   {
@@ -41,7 +44,18 @@ const products = [
     additionalImages: [
       "./assets/HB01_1.jpg",
       "./assets/HB01_2.jpg",
-      "./assets/HB01_3.jpg"
+      "./assets/HB01_3.jpg",
+      "./assets/HB01_4.jpg",
+      "./assets/HB01_5.jpg",
+      "./assets/HB01_6.jpg",
+      "./assets/HB01_7.jpg",
+      "./assets/HB01_8.jpg",
+      "./assets/HB01_9.jpg",
+      "./assets/HB01_10.jpg",
+      "./assets/HB01_11.jpg",
+      "./assets/HB01_12.jpg",
+      "./assets/HB01_13.jpg",
+      "./assets/HB01_14.jpg",
     ]
   },
   {
@@ -56,6 +70,7 @@ const products = [
     additionalImages: [
       "./assets/BP01_1.jpg",
       "./assets/BP01_2.jpg",
+      "./assets/BP01_3.jpg",
     ]
   },
   {
